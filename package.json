@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@wix/bookings": "^1.0.626",
+    "@wix/ecom": "^1.0.1012",
+    "@wix/members": "^1.0.209",
+    "@wix/pricing-plans": "^1.0.128",
+    "@wix/sdk": "^1.15.14",
+    "csv-writer": "^1.6.0",
+    "dotenv": "^16.4.7"
+  }
+}
